@@ -1,0 +1,93 @@
+run_all.py
+py_config.py
+
+
+# =========================================================
+# macOS system files
+# =========================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# =========================================================
+# Python cache / build files
+# =========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================================================
+# Python virtual environments
+# =========================================================
+.env
+.env.*
+.venv
+.venv/
+venv
+venv/
+ENV
+ENV/
+env
+env/
+
+# =========================================================
+# Jupyter / Python tool metadata
+# =========================================================
+.ipynb_checkpoints/
+.python-version
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.nox/
+coverage.xml
+htmlcov/
+.coverage
+.coverage.*
+
+# =========================================================
+# IDE / editor local files
+# =========================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================================================
+# Logs / local runtime files
+# =========================================================
+*.log
+*.pid
+*.tmp
+*.temp
+
+# =========================================================
+# Local secrets / SSH keys / certificates
+# =========================================================
+*.pem
+*.key
+*.crt
+*.csr
+*.p12
+*.pfx
+id_rsa
+id_rsa.pub
+id_dsa
+id_dsa.pub
+id_ecdsa
+id_ecdsa.pub
+id_ed25519
+id_ed25519.pub
+
+# =========================================================
+# OS / misc
+# =========================================================
+Thumbs.db
+desktop.ini
