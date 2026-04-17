@@ -14,11 +14,11 @@ PROJECT_ROOT = SCRIPT_DIR.parents[2]
 
 scripts = [
     "real_network/1_full_expose.py",
-    #"real_network/2_path_cpu_parallel.py",
+    "real_network/2_path_cpu_parallel.py",
     "real_network/3_precise_expose.py",
     "random_network/1_replace_plot.py",
     "random_network/2_random_full.py",
-    #"random_network/3_random_path.py",
+    "random_network/3_random_path.py",
     "random_network/4_random_precise.py",
 ]
 

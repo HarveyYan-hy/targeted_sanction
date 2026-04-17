@@ -116,10 +116,11 @@ In addition to common packages for data processing and scientific computing, the
 - `igraph`
 - `matplotlib-venn`
 - `venn`
+- `stata_setup`
 
 ## Stata
 
-The Stata code requires several user-written packages used by commands such as `reghdfe`, `stackedev`, and other DID-related procedures called in the `.do` files.
+The Stata code requires Stata 17 or later and several user-written packages used by commands such as `reghdfe`, `stackedev`, and other DID-related procedures called in the `.do` files.
 
 ---
 

@@ -288,7 +288,7 @@ estimates store robust_province
 * -------------------------------placebo test-----------------------------------------------
 * -----------------------------------------------------------------------------------------
 * Number of placebo iterations
-global pla_num = 1000
+global pla_num = 500
 
 * Matrices for storing results
 mat b_matrix  = J($pla_num, 1, .)
