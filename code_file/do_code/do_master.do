@@ -5,7 +5,7 @@ global s2_result "/your/project/directory/data/result/s2"
 global s3_result "/your/project/directory/data/result/s3"
 global figures_loc "/your/project/directory/figures"
 global tables_loc "/your/project/directory/tables"
-global code_loc "/Volumes/T7/phd/research/sanction_publication/code_file"
+global code_loc "/your/project/directory/code_file"
 * location-end
 * one-by-one
 clear

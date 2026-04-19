@@ -110,9 +110,8 @@ The code has been tested on both a 32GB **Mac mini** and a 32GB **ThinkBook 14 G
 
 ## Python
 
-The Python code was tested with **Python 3.13.5** using **conda** on **macOS**.
-
-In addition to common packages for data processing and scientific computing, the replication also requires:
+- The Python code was tested with **Python 3.13.5** using **conda** on **macOS**.
+- In addition to common packages for data processing and scientific computing, the replication also requires:
 
 - `networkx`
 - `igraph`
