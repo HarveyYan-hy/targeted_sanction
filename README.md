@@ -1,5 +1,5 @@
-**Haiwen Yan** College of Public Finance and Investment, Shanghai University of Finance and Economics  
-**Jiaojiao Yang** College of Public Finance and Investment, Shanghai University of Finance and Economics  
+**Haiwen Yan** College of Public Finance and Investment, Shanghai University of Finance and Economics  [Email](mailto:Harvey_yan@outlook.com) 
+**Jiaojiao Yang** College of Public Finance and Investment, Shanghai University of Finance and Economics  [Email](mailto:yangjiaojiao0115@163.com) 
 
 ---
 
@@ -104,7 +104,8 @@ This folder stores all raw input data used in the project. These files should re
 
 # Software Requirements
 
-Replication requires only **Python** and **Stata**.
+Replication requires only **Python** and **Stata**. 
+The code has been tested on both a 32GB **Mac mini** and a 32GB **ThinkBook 14 G6+** (Intel version).
 
 ## Python
 
@@ -116,11 +117,10 @@ In addition to common packages for data processing and scientific computing, the
 - `igraph`
 - `matplotlib-venn`
 - `venn`
-- `stata_setup`
 
 ## Stata
 
-The Stata code requires Stata 17 or later and several user-written packages used by commands such as `reghdfe`, `stackedev`, and other DID-related procedures called in the `.do` files.
+The Stata code requires several user-written packages used by commands such as `reghdfe`, `stackedev`, and other DID-related procedures called in the `.do` files.
 
 ---
 

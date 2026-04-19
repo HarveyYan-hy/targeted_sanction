@@ -29,7 +29,6 @@ stata_version = 'se'
 # ----------------------------------------------------------------------------------------
 # l1 folder
 code_dir = os.path.join(project_location, "code_file")
-code_dir = '/Volumes/T7/phd/research/sanction_publication/code_file'
 figures_dir = os.path.join(project_location, "figures")
 tables_dir = os.path.join(project_location, "tables")
 data_dir = os.path.join(project_location, "data")
@@ -178,7 +177,8 @@ for do_file in Path(do_code_path).glob("*.do"):
         print(f"Skip {do_file.name}: do not find * location-end")
         continue
 
-    new_content, n_replaced = pattern.subn(new_block, content, count=1)
+
+    new_content, n_replaced = pattern.subn(lambda m: new_block, content, count=1)
     print("replace obsoleting global")
 
     if n_replaced == 0:
