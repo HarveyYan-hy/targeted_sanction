@@ -1,6 +1,5 @@
-**Haiwen Yan** College of Public Finance and Investment, Shanghai University of Finance and Economics  [Email](mailto:Harvey_yan@outlook.com) 
-**Jiaojiao Yang** College of Public Finance and Investment, Shanghai University of Finance and Economics  [Email](mailto:yangjiaojiao0115@163.com) 
-
+**Haiwen Yan** College of Public Finance and Investment, Shanghai University of Finance and Economics  
+**Jiaojiao Yang** College of Public Finance and Investment, Shanghai University of Finance and Economics  
 ---
 
 # Overview
